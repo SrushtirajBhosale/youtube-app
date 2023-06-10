@@ -9,7 +9,7 @@ const options = {
     maxResults: 500,
   },
   headers: {
-    'X-RapidAPI-Key': 'a50625930amsh6279eceeef6658ep17b478jsn8f450e4439db',
+    'X-RapidAPI-Key': `${process.env.REACT_APP_API_KEY}`,
     'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com',
   },
 };
