@@ -35,6 +35,13 @@ a {
   color: white !important;
 }
 
+.category-btn1:hover {
+  background-color: #3d3d3db7 !important;
+  color: white !important;
+}
+.category-btn1:hover span{
+  color: white !important;
+}
 .react-player {
   height: 77vh !important;
   width: 100% !important;
@@ -63,6 +70,13 @@ a {
   transition: all 0.3s ease;
 }
 
+.category-btn1{ 
+  padding: 7px 15px;
+  margin: 5px 0px;
+  border-radius: 7px;
+  transition: all 0.3s ease;
+}
+
 @media screen and (max-width: 900px) {
   .category-btn{
     margin: 10px;
@@ -70,6 +84,12 @@ a {
 }
 
 @media screen and (max-width:800px){
+  .searchBar{
+    max-width: 40vw;  
+  }
+  .search-bar{
+    max-width: 35vw;
+  }
   .copyright{
     display:none !important;
   }
