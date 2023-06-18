@@ -1,4 +1,4 @@
-<h1 align="center">⭐ YouTube ⭐</h1>
+<h1 align="center">YouTube</h1>
 
 <h2 align="center">
   YouTube Web Application using <em> React Js, Material UI & Rapid API </em>
