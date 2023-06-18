@@ -84,12 +84,6 @@ a {
 }
 
 @media screen and (max-width:800px){
-  .searchBar{
-    max-width: 40vw;  
-  }
-  .search-bar{
-    max-width: 35vw;
-  }
   .copyright{
     display:none !important;
   }

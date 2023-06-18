@@ -26,7 +26,6 @@ const Feed = () => {
       </Box>
 
       <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 2 }}>
-
         <Videos videos={videos} />
       </Box>
     </Stack>

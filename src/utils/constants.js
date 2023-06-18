@@ -17,12 +17,12 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Maharashtra Tourism', icon: <CodeIcon />, },
-  { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
+  { name: 'Konkani Ranmanus', icon: <CodeIcon />, },
+  { name: 'Finance', icon: <CodeIcon />, },
+  { name: 'Healthy Lifestyle', icon: <CodeIcon />, },
+  { name: 'Geopolitics', icon: <CodeIcon />, },
+  { name: 'Programming', icon: <SchoolIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
-  { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
   { name: 'Movie', icon: <OndemandVideoIcon />, },
   { name: 'Gaming', icon: <SportsEsportsIcon />, },
